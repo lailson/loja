@@ -30,5 +30,14 @@
 			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
 			"description" : "This is another fun grey T-shirt"
 		}
+		{
+			"name" : "Camisas",
+			"price" : "20.44",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"description" : "This is another fun grey T-shirt"
+		}
 	]
 }

@@ -1,7 +1,7 @@
 {
-  "name": "simplestore",
+  "name": "loja virtual ifpi",
   "version": "1.5",
-  "description": "A clean, responsive storefront boilerplate with no database or backend.",
+  "description": "uma nova maneira de criar lojas virtuais",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
